@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9737DB041CAE2C8400B8E020 /* RotatableFileDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9737DB031CAE2C8400B8E020 /* RotatableFileDestination.swift */; };
+		9737DB051CAE2C8400B8E020 /* RotatableFileDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9737DB031CAE2C8400B8E020 /* RotatableFileDestination.swift */; };
+		9737DB061CAE2C8400B8E020 /* RotatableFileDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9737DB031CAE2C8400B8E020 /* RotatableFileDestination.swift */; };
+		9737DB071CAE2C8400B8E020 /* RotatableFileDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9737DB031CAE2C8400B8E020 /* RotatableFileDestination.swift */; };
 		9E31D6291C185ECD004E0980 /* SwiftyBeaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D6281C185ECD004E0980 /* SwiftyBeaver.swift */; };
 		9E31D62E1C185EE3004E0980 /* BaseDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62B1C185EE3004E0980 /* BaseDestination.swift */; };
 		9E31D62F1C185EE3004E0980 /* ConsoleDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31D62C1C185EE3004E0980 /* ConsoleDestination.swift */; };
@@ -51,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9737DB031CAE2C8400B8E020 /* RotatableFileDestination.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RotatableFileDestination.swift; path = sources/RotatableFileDestination.swift; sourceTree = "<group>"; };
 		9E31D6281C185ECD004E0980 /* SwiftyBeaver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyBeaver.swift; path = sources/SwiftyBeaver.swift; sourceTree = "<group>"; };
 		9E31D62B1C185EE3004E0980 /* BaseDestination.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BaseDestination.swift; path = sources/BaseDestination.swift; sourceTree = "<group>"; };
 		9E31D62C1C185EE3004E0980 /* ConsoleDestination.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ConsoleDestination.swift; path = sources/ConsoleDestination.swift; sourceTree = "<group>"; };
@@ -118,6 +123,7 @@
 				9E31D62B1C185EE3004E0980 /* BaseDestination.swift */,
 				9E31D62C1C185EE3004E0980 /* ConsoleDestination.swift */,
 				9E31D62D1C185EE3004E0980 /* FileDestination.swift */,
+				9737DB031CAE2C8400B8E020 /* RotatableFileDestination.swift */,
 			);
 			name = sources;
 			sourceTree = "<group>";
@@ -403,6 +409,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E31D62F1C185EE3004E0980 /* ConsoleDestination.swift in Sources */,
+				9737DB041CAE2C8400B8E020 /* RotatableFileDestination.swift in Sources */,
 				9E31D6291C185ECD004E0980 /* SwiftyBeaver.swift in Sources */,
 				9E31D6301C185EE3004E0980 /* FileDestination.swift in Sources */,
 				9E31D62E1C185EE3004E0980 /* BaseDestination.swift in Sources */,
@@ -423,6 +430,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACE597771C1882DF0031451F /* ConsoleDestination.swift in Sources */,
+				9737DB051CAE2C8400B8E020 /* RotatableFileDestination.swift in Sources */,
 				ACE597781C1882DF0031451F /* SwiftyBeaver.swift in Sources */,
 				ACE597791C1882DF0031451F /* FileDestination.swift in Sources */,
 				ACE5977A1C1882DF0031451F /* BaseDestination.swift in Sources */,
@@ -434,6 +442,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACE597881C18830D0031451F /* ConsoleDestination.swift in Sources */,
+				9737DB061CAE2C8400B8E020 /* RotatableFileDestination.swift in Sources */,
 				ACE597891C18830D0031451F /* SwiftyBeaver.swift in Sources */,
 				ACE5978A1C18830D0031451F /* FileDestination.swift in Sources */,
 				ACE5978B1C18830D0031451F /* BaseDestination.swift in Sources */,
@@ -445,6 +454,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACE597991C18832E0031451F /* ConsoleDestination.swift in Sources */,
+				9737DB071CAE2C8400B8E020 /* RotatableFileDestination.swift in Sources */,
 				ACE5979A1C18832E0031451F /* SwiftyBeaver.swift in Sources */,
 				ACE5979B1C18832E0031451F /* FileDestination.swift in Sources */,
 				ACE5979C1C18832E0031451F /* BaseDestination.swift in Sources */,
